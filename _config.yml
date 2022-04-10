@@ -2,7 +2,10 @@ title: awesome
 author: Jimmymok
 email: jimmymok7@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi!
+---
+title: "hi"
+date: 2022-04-10
+---
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
